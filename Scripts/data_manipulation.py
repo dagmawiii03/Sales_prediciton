@@ -4,10 +4,10 @@ from datetime import datetime
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join('..')))
-from Scripts.logger import CreateLogger
+from Scripts.Data_logger import CreateLogger
 
-def_logger = CreateLogger('Data Manipulatior', handlers=1)
-def_logger = def_logger.get_default_logger()
+logger = CreateLogger('Data Manipulatior', handlers=1)
+def_logger = logger.get_default_logger()
 
 
 class DataManipulator:
