@@ -1,14 +1,13 @@
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, Normalizer, StandardScaler, LabelEncoder
 from datetime import datetime
-# When importing from notebook
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join('..')))
 from Scripts.logger import CreateLogger
 
-logger = CreateLogger('Data Manipulatior', handlers=1)
-logger = logger.get_default_logger()
+def_logger = CreateLogger('Data Manipulatior', handlers=1)
+def_logger = def_logger.get_default_logger()
 
 
 class DataManipulator:
