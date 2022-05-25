@@ -17,7 +17,7 @@ class DataInfo:
         if(deep):
             self.df = df.copy(deep=True)
         else:
-            self.df = df
+           self.df = df
 
     def get_numeric_columns(self, type_list: list = ['int64', 'float64', 'uint8', 'uint16', 'float32']):
         try:
