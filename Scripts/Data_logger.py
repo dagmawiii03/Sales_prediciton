@@ -53,4 +53,4 @@ class CreateLogger:
         self.create_handlers()
         self.logger.setLevel(logging.INFO)
 
-        return self.
+        return self
