@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/TEN/week3/Sales_prediciton/Notebooks/mlruns/1/f80ca800bc15481d8a9f028d2731d06c/artifacts
+end_time: 1653676138114
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f80ca800bc15481d8a9f028d2731d06c
+run_uuid: f80ca800bc15481d8a9f028d2731d06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653676135574
+status: 4
+tags: []
+user_id: user
