@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/TEN/week3/Sales_prediciton/mlruns/0/1ec959a5528e4290ba49bf3c84cd7348/artifacts
+end_time: 1653696818992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1ec959a5528e4290ba49bf3c84cd7348
+run_uuid: 1ec959a5528e4290ba49bf3c84cd7348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653696779236
+status: 3
+tags: []
+user_id: user
