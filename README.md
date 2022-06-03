@@ -1,15 +1,14 @@
-# Sales_prediciton
+# Pharmaceutical Sales prediction across multiple stores
 The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores.
 
 Job is to build and serve an end-to-end product that delivers this prediction to analysts in the finance team.
 
-# African language Speech Recognition - Speech-to-Text 
 
 ## Content
 - [Overview](##overview)
 - [Skills Implemented](##Sklls-Implemented)
 - [ML pipeline Design](##ml-pipeline-design)
-- [Notebooks] (## The tests from the modularized scripts are run in the following notebooks)
+- [Notebooks](##Notebooks)
 - [Dataset Features](#Dataset-Features)
 - [Install](#install)
 
@@ -37,7 +36,7 @@ Your job is to build and serve an end-to-end product that delivers this predicti
 
 
 
-## The tests from the modularized scripts are run in the following notebooks
+## Notebooks
 * EDA analysis and Preprocessing ==> notebooks/Data_Exploration.ipynb
 * Deep learning ==> notebooks/LSTM_forecasting.ipynb
 
