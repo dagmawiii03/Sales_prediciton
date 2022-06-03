@@ -6,12 +6,10 @@ Job is to build and serve an end-to-end product that delivers this prediction to
 # African language Speech Recognition - Speech-to-Text 
 
 ## Content
-- [Overview](#overview)
-- [Objective](#objective)
-- [Skills Implimented](#Sklls-Implimented)
-- [ML pipeline Design](#ml-pipeline-design)
-- [Manual Installation](#Manual-Installation)
-- [Automatic Installation](#Automatic-Installation)
+- [Overview](##overview)
+- [Skills Implemented](##Sklls-Implemented)
+- [ML pipeline Design](##ml-pipeline-design)
+- [Notebooks] (## The tests from the modularized scripts are run in the following notebooks)
 - [Dataset Features](#Dataset-Features)
 - [Install](#install)
 
@@ -34,12 +32,12 @@ Your job is to build and serve an end-to-end product that delivers this predicti
 * Training and validating DL models;  
 * MLOps  with DVC, CML, and MLFlow
 
-# Pipeline Design
+## ML Pipeline Design
 ![Pipeline Design](ML_practices/pipeline_design.png)
 
 
 
-# The tests from the modularized scripts are run in the following notebooks
+## The tests from the modularized scripts are run in the following notebooks
 * EDA analysis and Preprocessing ==> notebooks/Data_Exploration.ipynb
 * Deep learning ==> notebooks/LSTM_forecasting.ipynb
 
